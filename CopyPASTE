@@ -1,9 +1,0 @@
-echo "# helloWORLD" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/cNiev/helloWORLD.git
-git push -u origin main
-
-/// from: http://kerseykyle.com/articles/ARM-assembly-hello-world
